@@ -4,6 +4,18 @@ Changes to Calva.
 
 ## [Unreleased]
 
+- Calva development: [Use requirements.txt in CI for publishing docs](https://github.com/BetterThanTomorrow/calva/issues/1913)
+- Bump deps.clj to v1.11.1.1182
+- Fix: [Drag sexps in value part of doseq sometimes jumps 2 sexps instead of 1](https://github.com/BetterThanTomorrow/calva/issues/1914)
+
+## [2.0.310] - 2022-10-24
+
+- Calva development: [Refactor `extension.ts` for less boilerplate and improved readability](https://github.com/BetterThanTomorrow/calva/issues/1906)
+- Calva development, Fix: [Docs publishing in CI is failing](https://github.com/BetterThanTomorrow/calva/issues/1909)
+- Calva development, Fix: [Grammar tests fail too often](https://github.com/BetterThanTomorrow/calva/issues/1910)
+
+## [2.0.309] - 2022-10-22
+
 - Fix: [Jack-in as live share guest not working](https://github.com/BetterThanTomorrow/calva/issues/1625)
 - [Filter out code action errors](https://github.com/BetterThanTomorrow/calva/pull/1904), addressing [this issue](https://github.com/BetterThanTomorrow/calva/issues/1889)
 
